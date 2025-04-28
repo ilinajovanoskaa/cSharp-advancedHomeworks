@@ -1,0 +1,15 @@
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.AssemblyInfoInputs.cache
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.AssemblyInfo.cs
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.csproj.CoreCompileInputs.cache
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.sourcelink.json
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\bin\Debug\net8.0\Homework01.App.exe
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\bin\Debug\net8.0\Homework01.App.deps.json
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\bin\Debug\net8.0\Homework01.App.runtimeconfig.json
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\bin\Debug\net8.0\Homework01.App.dll
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\bin\Debug\net8.0\Homework01.App.pdb
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.dll
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\refint\Homework01.App.dll
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.pdb
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\Homework01.App.genruntimeconfig.cache
+C:\Users\ilina\OneDrive\Desktop\cSharp-advancedHomeworks\Class01\Homework01\Homework01.App\obj\Debug\net8.0\ref\Homework01.App.dll
