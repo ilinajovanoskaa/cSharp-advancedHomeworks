@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TimeTracking.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TimeTracking.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeTracking.App.dll": {}
+        }
+      },
+      "TimeTracking.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TimeTracking.App": "1.0.0",
+          "TimeTracking.Domain": "1.0.0",
+          "TimeTracking.Helpers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TimeTracking.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeTracking.DataAccess.dll": {}
+        }
+      },
+      "TimeTracking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TimeTracking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeTracking.Domain.dll": {}
+        }
+      },
+      "TimeTracking.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TimeTracking.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeTracking.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeTracking.App/1.0.0": {
+      "type": "project",
+      "path": "../TimeTracking.App/TimeTracking.App.csproj",
+      "msbuildProject": "../TimeTracking.App/TimeTracking.App.csproj"
+    },
+    "TimeTracking.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../TimeTracking.DataAccess/TimeTracking.DataAccess.csproj",
+      "msbuildProject": "../TimeTracking.DataAccess/TimeTracking.DataAccess.csproj"
+    },
+    "TimeTracking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TimeTracking.Domain/TimeTracking.Domain.csproj",
+      "msbuildProject": "../TimeTracking.Domain/TimeTracking.Domain.csproj"
+    },
+    "TimeTracking.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../TimeTracking.Helpers/TimeTracking.Helpers.csproj",
+      "msbuildProject": "../TimeTracking.Helpers/TimeTracking.Helpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TimeTracking.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ilina\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ilina\\OneDrive\\Desktop\\HOMEWORK\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj",
+      "projectName": "TimeTracking.Services",
+      "projectPath": "C:\\Users\\ilina\\OneDrive\\Desktop\\HOMEWORK\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj",
+      "packagesPath": "C:\\Users\\ilina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ilina\\OneDrive\\Desktop\\HOMEWORK\\TimeTracking\\TimeTracking.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ilina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\ilina\\OneDrive\\Desktop\\HOMEWORK\\TimeTracking\\TimeTracking.DataAccess\\TimeTracking.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ilina\\OneDrive\\Desktop\\HOMEWORK\\TimeTracking\\TimeTracking.DataAccess\\TimeTracking.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimeTracking.App\TimeTracking.App.csproj" />
+    <ProjectReference Include="..\TimeTracking.Helpers\TimeTracking.Helpers.csproj" />
+	<ProjectReference Include="..\TimeTracking.Domain\TimeTracking.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

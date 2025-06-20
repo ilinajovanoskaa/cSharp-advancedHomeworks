@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TimeTracking",
+    "\\TimeTracking\\TimeTracking.Domain",
+    "\\TimeTracking\\TimeTracking.Domain\\Models",
+    "\\TimeTracking\\TimeTracking.Services",
+    "\\TimeTracking\\TimeTracking.Services\\Enums"
+  ],
+  "SelectedNode": "\\TimeTracking\\TimeTracking.Services\\Enums\\MainMenuChoice.cs",
+  "PreviewInSolutionExplorer": false
+}

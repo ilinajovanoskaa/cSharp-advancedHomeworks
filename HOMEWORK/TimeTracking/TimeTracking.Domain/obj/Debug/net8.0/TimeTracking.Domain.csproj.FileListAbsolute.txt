@@ -1,0 +1,11 @@
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\bin\Debug\net8.0\TimeTracking.Domain.deps.json
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\bin\Debug\net8.0\TimeTracking.Domain.dll
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\bin\Debug\net8.0\TimeTracking.Domain.pdb
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.AssemblyInfo.cs
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.dll
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\refint\TimeTracking.Domain.dll
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\TimeTracking.Domain.pdb
+C:\Users\ilina\OneDrive\Desktop\HOMEWORK\TimeTracking\TimeTracking.Domain\obj\Debug\net8.0\ref\TimeTracking.Domain.dll
